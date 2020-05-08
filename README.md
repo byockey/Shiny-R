@@ -1,2 +1,5 @@
-# Shiny-R
-This is from the programming in r class workshop. It is data and code are availabe in my r-cloud account.
+# KSU Rmarkdown Workshop
+
+KSU R Workshop on Rmarkdown November 12, 2019
+
+Given by Melinda Higgins, PhD and Alex Edwards, Research Informatics Analyst - Emory University
